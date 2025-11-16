@@ -1,19 +1,7 @@
-<!--
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/yahiaelbanna/yahiaelbanna/blob/main/banner.png" alt="banner">
+</div>
 
-**yahiaelbanna/yahiaelbanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
 
 🎯 **Full-Stack Developer** | 🚀 **9+ Years Experience** | 🎨 **UI/UX Enthusiast**
@@ -29,7 +17,12 @@ const yahia = {
   philosophy: "Always learning, always building"
 };
 ```
+<!--
+### 🥷 Check out my Portfolio!
 
+[![Portfolio Preview](https://img.shields.io/badge/🎨_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiaelbanna.vercel.app)
+[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yahiaelbanna.vercel.app)
+-->
 ## 🛠️ Tech Stack
 
 ### 💻 **Programming Languages**
@@ -72,12 +65,22 @@ const yahia = {
 
 ## 🌐 Let's Connect
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiaelbanna.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahia-elbnna)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yahia-elbanna)
+
+</div>
+
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yahiaelbnna21)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yahia.elbanna.3)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yahia-elbnna)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yahiaelbnna)
+
+</div>
 
 ---
 
