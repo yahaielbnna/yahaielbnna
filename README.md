@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🎯 **Full-Stack Developer** | 🚀 **9+ Years Experience** | 🎨 **UI/UX Enthusiast**
+🎯 **Full-Stack Developer** | 🚀 **9+ Years Experience** | 🎨 **Graphic design Enthusiast**
 
 ```javascript
 const yahia = {
