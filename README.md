@@ -57,9 +57,9 @@ const yahia = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=yahiaelbanna&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yahiaelbanna&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiaelbanna&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Streak](https://raw.githubusercontent.com/yahiaelbanna/yahiaelbanna/main/github_streak_stats.svg)
+
 
 </div>
 
