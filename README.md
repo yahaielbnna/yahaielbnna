@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img src="https://github.com/yahiaelbanna/yahiaelbanna/blob/main/banner.png" alt="banner">
 </div>
+-->
 
 # 💫 About Me:
 
