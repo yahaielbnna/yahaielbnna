@@ -89,10 +89,8 @@ const yahia = {
 ---
 
 <div align="center">
-  <!--
-### 💡 *"Code is poetry, design is art, and great software is where they meet."*
--->
-### 💡 “Where imagination fades, code becomes an echo of others."
+
+### 💡 *"Where imagination fades, code becomes an echo of others."*
 
 <br>
 
