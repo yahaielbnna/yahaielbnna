@@ -11,8 +11,8 @@
 ```javascript
 const yahia = {
   code: ["JavaScript", "TypeScript", "PHP", "Python", "Java"],
-  frontend: ["React", "Vue.js", "Next.js", "TailwindCSS", "Three.js"],
-  backend: ["Laravel", "Django", "Flask"],
+  frontend: ["React", "Vue.js", "Next.js", "TailwindCSS", "Three.js","Livewire"],
+  backend: ["Laravel", "Django", "Flask", "Reverb"],
   databases: ["MySQL", "Firebase"],
   tools: ["Git", "AWS", "Vercel", "Figma", "Adobe Creative Suite"],
   focus: ["ERP Systems", "Business Tools", "Web Applications", "Websites"],
